@@ -1,0 +1,15 @@
+*{
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
